@@ -1,3 +1,5 @@
+org: espesd
+app: crud-serverless-users
 service: crud-serverless-users
 
 provider:
